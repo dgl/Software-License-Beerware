@@ -36,9 +36,9 @@ L<http://people.freebsd.org/~phk/>, L<http://en.wikipedia.org/wiki/Beerware>.
 
 =head1 AUTHOR & COPYRIGHT
 
-Copyright 2011 David Leadbeater E<lt>dgl(at)dgl.cxEgt>
+Copyright 2011 David Leadbeater E<lt>dgl(at)dgl.cxE<gt>
 
-The Beerware license was written by Poul-Henning Kamp.
+The Beer-ware license was written by Poul-Henning Kamp.
 
 =cut
 
@@ -46,8 +46,9 @@ __DATA__
 __NOTICE__
 This software is copyright (c) {{$self->year}} by {{$self->holder}}.
 
-This is free software; you can redistribute it and/or modify it under
-the terms of the Beerware license.
+This program is free software. It comes without any warranty, to the extent
+permitted by applicable law. You can redistribute it and/or modify it under the
+terms of the Beer-ware license revision 42.
 __LICENSE__
 "THE BEER-WARE LICENSE" (Revision 42):
 {{$self->holder}} wrote this file. As long as you retain this notice you
